@@ -1,7 +1,7 @@
 name: Run commands on different operating systems
 on:
   push:
-    branches: [ ansible-tower-uptime-prediction-30m ]
+    branches: [ master ]
 
 jobs:
   build-deploy:
